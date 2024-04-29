@@ -9,14 +9,14 @@ I'm passionate about crafting robust backend solutions that drive seamless user 
 ## Technologies I Work With
 
 - **PHP:** Magento 2, Laravel
-- **JavaScript:** (Include frameworks/libraries if applicable)
+- **JavaScript:**
 
 ## Contact Me
 
 Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities!
 
-- GitHub: [[Your GitHub Profile Link](#) ](https://github.com/maulik2900)
-- LinkedIn: [Your LinkedIn Profile Link](#)
+- [Github](https://github.com/maulik2900)
+- [LinkedIn](https://www.linkedin.com/in/maulik-paneliya-197a7b201/)
 
 ## Let's Connect!
 
