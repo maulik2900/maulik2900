@@ -16,7 +16,6 @@ I'm passionate about crafting robust backend solutions that drive seamless user 
 
 Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities!
 
-- [Github](https://github.com/maulik2900)
 - [LinkedIn](https://www.linkedin.com/in/maulik-paneliya-197a7b201/)
 
 ## Let's Connect!
