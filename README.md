@@ -1,4 +1,4 @@
-# Backend Developer
+# Full Stack Developer
 
 Welcome to my GitHub profile! 👋 I'm a backend developer with expertise in PHP, particularly in Magento 2 and Laravel frameworks, along with a solid understanding of JavaScript.
 
