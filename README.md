@@ -8,7 +8,7 @@ I'm passionate about crafting robust backend solutions that drive seamless user 
 
 ## Technologies I Work With
 
-- **PHP:** Magento 2, Laravel
+- **PHP:** Magento 2, Laravel , CodeIgniter
 - **MySql**
 - **JavaScript:** jQuery,Ajax,Vue js
 
