@@ -14,6 +14,7 @@ I'm a passionate software developer dedicated to crafting innovative solutions t
 ![JavaScript](https://img.shields.io/badge/JavaScript-Tool-yellow?style=flat-square&logo=javascript)
 ![Laravel](https://img.shields.io/badge/Laravel-Tool-red?style=flat-square&logo=laravel)
 ![MySQL](https://img.shields.io/badge/MySQL-Tool-red?style=flat-square&logo=mysql)
+![Go](https://img.shields.io/badge/Golang-Tool-red?style=flat-square&logo=go)
 
 ## 🌱 I’m currently learning
 
