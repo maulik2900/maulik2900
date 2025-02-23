@@ -1,26 +1,39 @@
-# Maulik Paneliya
+# 👋 Hello, I'm Maulik Paneliya!
 
-Welcome to my GitHub profile! 👋 I'm a full stack developer with expertise in PHP, particularly in Magento 2 and Laravel frameworks, along with a solid understanding of JavaScript and vue.js.
+[![Linkedin: maulik paneliya](https://img.shields.io/badge/-Maulik%20Paneliya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maulik-paneliya-197a7b201/)](https://www.linkedin.com/in/maulik-paneliya-197a7b201/)
+[![Instagram: maulik_paneliya](https://img.shields.io/badge/%20Maulik%20Paneliya-833ab4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/maulik.paneliya/)](https://www.instagram.com/maulik.paneliya/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/paneliya_maulik?label=&s)](https://twitter.com/paneliya_maulik)
 
-## About Me
+## 🚀 About Me
 
-I'm passionate about crafting robust backend solutions that drive seamless user experiences and enhance overall performance. With a keen eye for detail and a commitment to writing clean, maintainable code, I strive to deliver high-quality solutions that meet both client requirements and industry best practices.
+I'm a passionate software developer dedicated to crafting innovative solutions that enhance people's lives. I thrive on tackling diverse software and computer-related projects, always eager to collaborate on intriguing and challenging endeavors.
 
-## Technologies I Work With
+## 🔧 Technologies & Tools
 
-- **PHP:** Magento 2, Laravel , CodeIgniter
-- **MySql**,**PgSql**,**MsSql**
-- **JavaScript:** jQuery,Ajax,Vue js
+![PHP](https://img.shields.io/badge/PHP-Tool-purple?style=flat-square&logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-Tool-yellow?style=flat-square&logo=javascript)
+![Laravel](https://img.shields.io/badge/Laravel-Tool-red?style=flat-square&logo=laravel)
+![MySQL](https://img.shields.io/badge/MySQL-Tool-red?style=flat-square&logo=mysql)
 
-## Contact Me
+## 🌱 I’m currently learning
 
-Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities!
+I'm currently immersed in enhancing my proficiency in **Vue.js**, fueled by a perpetual curiosity for exploring new technologies and tools.
 
-- [LinkedIn](https://www.linkedin.com/in/maulik-paneliya-197a7b201/)
+## 💼 Work
 
-## Let's Connect!
+- Presently contributing as a Fullstack Developer at FinchWeb Technologies.
+- Explore my [portfolio](https://maulikpaneliya.netlify.app/) to see my work.
+- Need web development services? Hire me for your projects on [Freelancer](https://www.freelancer.com/u/maulik0026).
 
-I'm always open to connecting with fellow developers and tech enthusiasts. Let's connect and learn from each other!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](#)
+## 📫 How to reach me
 
+- Reach out via Email: maulikpaneliya0025@gmail.com
+
+## 🌐 Important Links
+
+- [Portfolio](https://maulikpaneliya.netlify.app/)
+
+## ⚡ Fun Fact
+
+Error 404: Humor not found. But innovation? That's always on the way!
