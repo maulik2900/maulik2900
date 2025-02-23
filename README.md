@@ -23,8 +23,6 @@ I'm currently immersed in enhancing my proficiency in **Vue.js**, fueled by a pe
 
 - Presently contributing as a Fullstack Developer at FinchWeb Technologies.
 - Explore my [portfolio](https://maulikpaneliya.netlify.app/) to see my work.
-- Need web development services? Hire me for your projects on [Freelancer](https://www.freelancer.com/u/maulik0026).
-
 
 ## 📫 How to reach me
 
