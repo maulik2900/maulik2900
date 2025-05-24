@@ -1,38 +1,58 @@
-# 👋 Hello, I'm Maulik Paneliya!
+# 👋 Hello, I'm Maulik Paneliya
 
-[![Linkedin: maulik paneliya](https://img.shields.io/badge/-Maulik%20Paneliya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maulik-paneliya-197a7b201/)](https://www.linkedin.com/in/maulik-paneliya-197a7b201/)
-[![Instagram: maulik_paneliya](https://img.shields.io/badge/%20Maulik%20Paneliya-833ab4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/maulik.paneliya/)](https://www.instagram.com/maulik.paneliya/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/paneliya_maulik?label=&s)](https://twitter.com/paneliya_maulik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maulik%20Paneliya-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulik-paneliya-197a7b201/)
+[![Instagram](https://img.shields.io/badge/Instagram-%40maulik.paneliya-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/maulik.paneliya/)
+[![Twitter](https://img.shields.io/twitter/follow/paneliya_maulik?style=flat-square&logo=&label=Follow)](https://x.com/paneliya_maulik)
+
+---
 
 ## 🚀 About Me
 
-I'm a passionate software developer dedicated to crafting innovative solutions that enhance people's lives. I thrive on tackling diverse software and computer-related projects, always eager to collaborate on intriguing and challenging endeavors.
+I am a passionate **Full Stack Software Developer** with a strong interest in building scalable, user-centric digital solutions. With a focus on clean code and modern development practices, I enjoy transforming ideas into real-world applications that solve meaningful problems.
+
+I thrive in collaborative environments, embrace continuous learning, and love exploring emerging technologies.
+
+---
 
 ## 🔧 Technologies & Tools
 
 ![PHP](https://img.shields.io/badge/PHP-Tool-purple?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Tool-yellow?style=flat-square&logo=javascript)
 ![Laravel](https://img.shields.io/badge/Laravel-Tool-red?style=flat-square&logo=laravel)
-![MySQL](https://img.shields.io/badge/MySQL-Tool-red?style=flat-square&logo=mysql)
-![Go](https://img.shields.io/badge/Golang-Tool-red?style=flat-square&logo=go)
+![MySQL](https://img.shields.io/badge/MySQL-Tool-blue?style=flat-square&logo=mysql)
+![Vue.js](https://img.shields.io/badge/Vue.js-Tool-4FC08D?style=flat-square&logo=vue.js)
+![Node.js](https://img.shields.io/badge/Node.js-Tool-339933?style=flat-square&logo=node.js)
+![Git](https://img.shields.io/badge/Git-Tool-F05032?style=flat-square&logo=git)
 
-## 🌱 I’m currently learning
+---
 
-I'm currently immersed in enhancing my proficiency in **Vue.js**, fueled by a perpetual curiosity for exploring new technologies and tools.
+## 🌱 Currently Exploring
 
-## 💼 Work
+I am actively enhancing my expertise in:
 
-- Presently contributing as a Fullstack Developer at FinchWeb Technologies.
-- Explore my [portfolio](https://maulikpaneliya.netlify.app/) to see my work.
+- **Vue.js** for building intuitive front-end experiences
+- **Node.js** for robust back-end solutions
+- Scalable architecture and performance optimization
 
-## 📫 How to reach me
+---
 
-- Reach out via Email: maulikpaneliya0025@gmail.com
+## 💼 Professional Experience
 
-## 🌐 Important Links
+- 🧑‍💻 Full Stack Developer at **FinchWeb Technologies**
+- 💼 Open to freelance projects: [Hire me on Freelancer](https://www.freelancer.com/u/maulik0026)
+- 🖥️ Explore my work: [Visit My Portfolio](https://maulikpaneliya.netlify.app/)
 
-- [Portfolio](https://maulikpaneliya.netlify.app/)
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: **maulikpaneliya0025@gmail.com**
+- 🌐 Portfolio: [maulikpaneliya.netlify.app](https://maulikpaneliya.netlify.app/)
+
+---
 
 ## ⚡ Fun Fact
 
-Error 404: Humor not found. But innovation? That's always on the way!
+> 💡 *Error 404: Humor not found. But innovation? That's always online.*
+
+---
