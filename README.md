@@ -39,8 +39,7 @@ I am actively enhancing my expertise in:
 ## 💼 Professional Experience
 
 - 🧑‍💻 Full Stack Developer at **FinchWeb Technologies**
-- 💼 Open to freelance projects: [Hire me on Freelancer](https://www.freelancer.com/u/maulik0026)
-- 🖥️ Explore my work: [Visit My Portfolio](https://maulikpaneliya.netlify.app/)
+- 🖥️ Explore my work: [Visit my portfolio](https://maulikpaneliya.netlify.app/)
 
 ---
 
