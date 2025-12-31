@@ -46,7 +46,7 @@ I am actively enhancing my expertise in:
 ## 📫 Let's Connect
 
 - 📧 Email: **maulikpaneliya0025@gmail.com**
-- 🌐 Portfolio: [maulikpaneliya.netlify.app](https://maulikpaneliya.netlify.app/)
+- 🌐 Portfolio: [Maulik Paneliya](https://maulikpaneliya.netlify.app/)
 
 ---
 
